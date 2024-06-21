@@ -1,2 +1,5 @@
-# bachelor-project
-Sofia d'Atri Bachelor Project 2024 Computational Free Will Università della Svizzera Italiana
+# Computational Free Will
+## A Strange Loop In The Quantum Turing Machine
+Student: Sofia d'Atri <br>
+Advisor: Stefan Wolf <br>
+Università della Svizzera Italiana
